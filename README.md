@@ -10,3 +10,4 @@
 | **Logos** | [`brand/logos/`](./brand/logos/) | Wordmark, La Escalera monogram, El Doce badge (SVG) |
 | **Capital System** | [`capital/RAISE-SYSTEM.md`](./capital/RAISE-SYSTEM.md) | The El Doce capital-raising funnel — identification, education, pitch, objections, nurture |
 | **Delegation Spec** | [`capital/DELEGATION.md`](./capital/DELEGATION.md) | Which AI model tier runs each piece of the system, with routing and compliance rules |
+| **Raise Paths** | [`capital/PUBLIC-RAISE-PATHS.md`](./capital/PUBLIC-RAISE-PATHS.md) | Legal paths for raising publicly from everyday investors — what we can say, and the bright lines |

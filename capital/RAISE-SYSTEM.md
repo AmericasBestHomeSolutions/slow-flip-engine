@@ -10,11 +10,13 @@ Two brands, two jobs:
 | **IRONSTONE LEGACY** | The institution. Private, quiet, precise. The entity that issues the notes and pays El Doce. | Note agreements, investor statements, the quarterly letter, the badge on the wire confirmation |
 
 The funnel moves people from Lonchando (public) to IronStone Legacy (private).
-That split is also the compliance architecture: **market the movement publicly;
-make offers privately through the entity** (your attorney-reviewed exemption
-structure — e.g., Reg D 506(b) with documented pre-existing relationships, or
-506(c) accredited-only with verification). Lonchando content never contains an
-offer. IronStone Legacy materials never go out to strangers.
+That split is also the compliance architecture: **Lonchando educates publicly;
+IronStone Legacy makes offers only through the attorney-chosen exemption path.**
+The candidate paths — including Reg CF, which allows public marketing of small
+notes to everyday investors through a funding portal — are compared in
+`PUBLIC-RAISE-PATHS.md` (decision pending: OQ-2 in `LANGUAGE-LIBRARY.md` §7).
+Until that decision, Lonchando content never contains an offer and no funds
+are accepted outside documented private relationships.
 
 *(Not legal advice — have your securities attorney bless the template set once,
 then reuse it.)*
