@@ -74,6 +74,14 @@ sentences within them:
 
 ---
 
+## 7. Open questions for attorney review
+
+| ID | Question | Interim ruling (in force until answered) |
+|---|---|---|
+| **OQ-1** | May the specific rate and payment terms (LL-01/LL-02) appear in broadcast education content — the email mini-course (rung 2) and the rung-1 lead magnet, whose working title references "12%"? Answer likely depends on the exemption path: under 506(b), publicly stating the rate risks constituting general solicitation; under 506(c) (accredited-only, verified) it may be permissible. | **Conservative default:** LL-01/LL-02 appear only from Lunch & Learn (invited, known contacts) onward. Broadcast content teaches the category and mechanics with no specific figures. The lead magnet title drops the number until ruled on (working alternative: *"El Doce Explained — how private lending beats the bank"*). |
+
+---
+
 *Assembly rule for all model tiers: snippets are inserted verbatim, including
 punctuation. If a needed statement doesn't exist here, output the marker
 `[FRONTIER: needs approved language]` and stop.*
