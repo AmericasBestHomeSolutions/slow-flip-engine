@@ -11,3 +11,4 @@
 | **Capital System** | [`capital/RAISE-SYSTEM.md`](./capital/RAISE-SYSTEM.md) | The El Doce capital-raising funnel — identification, education, pitch, objections, nurture |
 | **Delegation Spec** | [`capital/DELEGATION.md`](./capital/DELEGATION.md) | Which AI model tier runs each piece of the system, with routing and compliance rules |
 | **Raise Paths** | [`capital/PUBLIC-RAISE-PATHS.md`](./capital/PUBLIC-RAISE-PATHS.md) | Legal paths for raising publicly from everyday investors — what we can say, and the bright lines |
+| **First-Lien Structure** | [`capital/FIRST-LIEN-STRUCTURE.md`](./capital/FIRST-LIEN-STRUCTURE.md) | The one-lender/one-property/first-lien loan lane — why it can sit outside securities rules, and the marketing discipline that keeps it there |
