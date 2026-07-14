@@ -43,6 +43,24 @@ them, Lonchando is the movement that proves it is — with a real engine (slow f
 real estate), a real number (12% to investors), and a real rhythm (music, mindset,
 and a table where everybody eats).*
 
+### Brand architecture: Lonchando × IronStone Legacy
+
+Two brands, two floors of the same house — neither replaces the other:
+
+| | **LONCHANDO** | **IRONSTONE LEGACY** |
+|---|---|---|
+| Role | The movement | The institution |
+| Volume | Loud | Quiet |
+| Audience | The public — community, followers, culture | Investors — private, documented relationships |
+| Carries | Merch, music, mindset, events, content | Note agreements, statements, quarterly letters, the wire confirmation |
+| Voice | Preacher at the cookout | Banker who keeps his word |
+| Colors | Verde on Noche | Restrained — IronStone gets its own quiet system (steel/charcoal/oro accent) when its collateral is built |
+
+The split is also the compliance architecture: **Lonchando markets the movement
+publicly and never contains an offer; IronStone Legacy makes offers privately and
+never goes out to strangers.** The funnel between them is specified in
+[`capital/RAISE-SYSTEM.md`](../capital/RAISE-SYSTEM.md).
+
 ---
 
 ## 3. The Four Pillars
