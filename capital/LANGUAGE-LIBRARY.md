@@ -22,6 +22,33 @@
 | **LL-05** | Each note is secured by [SECURITY DESCRIPTION — e.g., a recorded lien on specific real property / a personal guarantee / corporate assets — must match the actual documents]. | Protection section of every pitch |
 | **LL-06** | Since [YEAR], [ENTITY SHORT NAME] has made [N] of [N] scheduled investor payments on time. *(Update N from records each quarter; never round up.)* | Proof section |
 
+## 1b. Loan-vocabulary claims — LL-40 family (first-lien structure)
+
+> Used when operating under the first-lien loan structure
+> (`FIRST-LIEN-STRUCTURE.md`), pending the attorney's OQ-3 confirmation.
+> The LL-01 family above remains for the securities fallback paths. **The two
+> vocabularies never mix in one document.**
+
+| ID | Snippet | Use in |
+|---|---|---|
+| **LL-40** | Private lenders receive 12% fixed annual interest on a 5-year note, or 9% fixed annual interest on a 4-year note, per the terms of the loan documents. | Rate statement, one-to-one materials |
+| **LL-41** | Each loan is secured by a recorded first and only lien on a specific property, held in the lender's own name. | Protection statement |
+| **LL-42** | One lender, one property, one lien — loans are never pooled or divided among multiple lenders. | Structure statement |
+| **LL-43** | The minimum loan is $30,000. | One-to-one materials |
+| **LL-44** | If we fail to pay, the lender has the right to foreclose on the property per the terms of the recorded [MORTGAGE/DEED OF TRUST]. | Downside answer |
+| **LL-45** | The loan-to-value on this property is [LTV]%, supported by [APPRAISAL / COMPARABLE SALES] in the loan file. | Per-property deal sheet |
+
+**Required honesty companions (loan framing):**
+
+| ID | Snippet |
+|---|---|
+| **LL-46** | Lending involves risk, including possible loss of principal. A recorded lien is protection with a process — property values can change, and foreclosure takes time and cost. This loan is not a bank deposit and is not insured by the FDIC or any government agency. |
+| **LL-47** | Your funds are committed for the loan term. Do not lend money you may need before the note matures. |
+
+**Prohibited in loan-vocabulary materials (in addition to §3):** "investor,"
+"investment," "returns," "yield," "offering," "opportunity," "more than
+protected," "fully protected," "your money can't lose."
+
 ## 2. Required risk disclosure (must appear with any offer material)
 
 | ID | Snippet |

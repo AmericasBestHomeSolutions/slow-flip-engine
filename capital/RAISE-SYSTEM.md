@@ -11,12 +11,13 @@ Two brands, two jobs:
 
 The funnel moves people from Lonchando (public) to IronStone Legacy (private).
 That split is also the compliance architecture: **Lonchando educates publicly;
-IronStone Legacy makes offers only through the attorney-chosen exemption path.**
-The candidate paths — including Reg CF, which allows public marketing of small
-notes to everyday investors through a funding portal — are compared in
-`PUBLIC-RAISE-PATHS.md` (decision pending: OQ-2 in `LANGUAGE-LIBRARY.md` §7).
-Until that decision, Lonchando content never contains an offer and no funds
-are accepted outside documented private relationships.
+IronStone Legacy transacts privately.** The primary structure is the
+**first-lien loan** — one lender, one property, one recorded first-and-only
+lien, terms presented per-property and one-to-one (`FIRST-LIEN-STRUCTURE.md`,
+pending attorney confirmation OQ-3). The securities exemption paths in
+`PUBLIC-RAISE-PATHS.md` are the fallback if that lane doesn't hold. Until the
+attorney rules, Lonchando content never pairs a rate with an invitation, and
+no funds move outside documented one-to-one relationships.
 
 *(Not legal advice — have your securities attorney bless the template set once,
 then reuse it.)*
@@ -32,20 +33,24 @@ Before running the funnel, three assets must exist:
    is described, how risk is disclosed, what testimonials may say. Written once
    at the frontier tier (see DELEGATION.md), blessed by the attorney, and then
    **assembled verbatim — never re-authored — by every downstream piece of
-   content.** Canonical line: *"Investors in our promissory notes earn 12% fixed
-   annual interest per the terms of the note agreement."* Never "guaranteed,"
+   content.** Two vocabularies, never mixed: the **LL-40 loan family**
+   (lender / loan / first lien) for the first-lien structure, and the LL-01
+   family for the securities fallback paths. Canonical loan line: *"Private
+   lenders receive 12% fixed annual interest on a 5-year note, or 9% fixed on
+   a 4-year note, per the terms of the loan documents."* Never "guaranteed,"
    never "risk-free," never projections beyond the note terms.
-2. **The Investor CRM.** Every contact gets: source, relationship-start date
-   (this documents the pre-existing relationship for 506(b)), stage, notes from
+2. **The Lender CRM.** Every contact gets: source, relationship-start date
+   (documenting that every loan grew out of a genuine one-to-one
+   relationship), stage, notes from
    every conversation, and a next-touch date. The CRM — not memory, not mood —
    drives all follow-through.
 3. **The Proof File.** Running record of receipts: payments made on time,
-   completed deals, before/after photos, investor tenure. Every pitch and every
+   completed deals, before/after photos, lender tenure. Every pitch and every
    nurture touch draws from it. Proof, not promises.
 
 ---
 
-## Stage 1 — Investor Identification
+## Stage 1 — Lender Identification
 
 ### The three pools
 
@@ -53,23 +58,24 @@ Before running the funnel, three assets must exist:
 |---|---|---|---|
 | **La Mesa** (warm network) | Phone contacts, past clients, family, church/community, slow-flip community peers | Warm | Personal one-to-one outreach (script below) |
 | **El Público** (audience) | Lonchando followers — people already consuming the mindset/music/deal content | Warming | Lead magnet → education ladder |
-| **Los Profesionales** (targeted) | Self-directed IRA holders, retirees sitting in CDs, small-business owners, professionals with idle cash | Cold | Education-first content + referral introductions (never a cold offer) |
+| **Los Profesionales** (targeted) | Latino business owners with cash to deploy, self-directed IRA holders, retirees sitting in CDs, professionals with idle capital | Cold | Relationship channels — chambers of commerce, merchant associations, referrals. Education first; terms only one-to-one |
 
-### Ideal investor profile (score each contact 1–5 on all four)
+### Ideal lender profile (score each contact 1–5 on all four)
 
 - **Has capital idle or underperforming** — savings, CDs, an old 401(k)/IRA, a business account earning nothing
 - **Values income + predictability** over speculation (the 12% fixed is the draw, not upside)
-- **Trusts you or is one warm introduction away** (506(b) lives on relationships)
-- **Decision-capable** — can move $25K+ without a committee
+- **Trusts you or is one warm introduction away** (the structure lives on one-to-one relationships)
+- **Decision-capable** — can move $30K+ (the loan minimum) without a committee
 
 Score 16–20: pitch track. 10–15: education ladder. Below 10: community, not capital.
 
 ### The warm-outreach script (one-to-one, not broadcast)
 
-> "You know I've been building the real estate business. I'm not asking you for
-> anything — but I'm choosing a small group of people I trust to walk through
-> how my investors earn 12% fixed. If you ever wanted to see how it works from
-> the inside, I'd love to show you. Lunch is on me. ¿Lonchamos?"
+> "You know I've been building the real estate business. I'm not asking you
+> for anything — but I'm choosing a small group of people I trust to walk
+> through how private lenders work with me: their money secured by a first
+> lien on a real property, in their own name. If you ever wanted to see how
+> it works from the inside, I'd love to show you. Lunch is on me. ¿Lonchamos?"
 
 No offer, no urgency, no numbers beyond the number. It books the education
 meeting, and it documents the relationship.
@@ -108,13 +114,14 @@ the documented relationship.
 |---|---|---|
 | **The problem** | Their money is earning 4% while inflation eats it. Banks lend it out at 10%+ and keep the spread. | 5 min |
 | **The method** | La Escalera: buy right, hold steady, slow flip. Why boring is the feature. | 10 min |
-| **The note** | What a promissory note is. IronStone Legacy is the borrower; they are the bank. 12% fixed per the note agreement, paid [monthly/quarterly]. | 10 min |
-| **The protection** | How the note is secured, what happens in downside scenarios, honest risk disclosure (from the Approved Language Library — verbatim). | 10 min |
+| **The loan** | This specific property. IronStone Legacy is the borrower; they are the bank. LL-40 terms: 12% fixed / 5-year, or 9% fixed / 4-year, paid [monthly/quarterly]. Their name on the recorded first-and-only lien. | 10 min |
+| **The protection** | The recorded lien (LL-41/LL-42), the loan-to-value on this property (LL-45), the lender's title policy, and the honest downside: foreclosure is a right with a process, not a guarantee (LL-44/LL-46). | 10 min |
 | **The proof** | Proof File: payment history, completed deals, investor tenure. | 5 min |
 | **The process** | Next steps if they're in: docs from the attorney, funding, first payment date. No pressure close: *"Take it home. Talk to your spouse. I'll follow up Thursday."* | 5 min |
 
-Leave-behind: one-pager (IronStone Legacy letterhead, El Doce badge, the beats
-above in print). The follow-up on Thursday is a CRM task, not a memory.
+Leave-behind: the per-property **Loan Summary sheet** (`loan-summary.html` —
+IronStone Legacy letterhead, this property's address, LTV, lien position, and
+terms). The follow-up on Thursday is a CRM task, not a memory.
 
 ---
 
@@ -127,9 +134,9 @@ deviations go back through the frontier tier + attorney.
 | Objection | Response |
 |---|---|
 | **"12% sounds too good to be true."** | "Good instinct — you should be skeptical. Banks pay you 4% and lend your money out at 10–24%. I'm cutting out the bank. Here's the payment history — look at dates, not promises." |
-| **"What if you can't pay?"** | "Fair question — here's exactly what happens." Walk the security/default provisions from the note, verbatim from the library. Honesty here closes more than confidence does. |
-| **"Is my money locked up?"** | "Yes, for the note term — that's what makes the 12% payable. This is the certainty bucket, not the emergency fund. Never invest money you might need next month." |
-| **"Why not just index funds?"** | "Great tool, different job. The market averages ~10% with 30% down-years. The note pays 12% fixed with no swings. Most of my investors hold both." |
+| **"What if you can't pay?"** | "Fair question — here's exactly what happens." Walk LL-44: their recorded lien, their right to foreclose, and the honest costs of that process (LL-46). Honesty here closes more than confidence does. |
+| **"Is my money locked up?"** | "Yes, for the loan term — that's what makes the 12% payable. This is the certainty bucket, not the emergency fund. Never lend money you might need next month." |
+| **"Why not just index funds?"** | "Great tool, different job. The market averages ~10% with 30% down-years. The loan pays 12% fixed with no swings — and it's secured by a recorded first lien in your name. Most of my lenders hold both." |
 | **"Why do you need my money if the deals are so good?"** | "Speed and scale. A bank takes 45 days; I close in 10. I pay 12% because moving fast on the right deal makes far more than 12%. You're not charity — you're my competitive advantage." |
 | **"I need to think about it."** | "You should. Take the one-pager, talk to your spouse, and I'll call Thursday. What's the one question I can answer before then?" (Log the question. The Thursday call handles *that*, not everything.) |
 | **"Let me talk to my [advisor/CPA]."** | "Please do — and bring them. I'd rather pitch your CPA than have them kill it from a summary. Want me to send the CPA one-pager?" (Have a CPA one-pager.) |
@@ -159,7 +166,7 @@ follow-through; Joe supplies fifteen minutes of voice.** Every touch below is
 CRM-scheduled, pre-drafted by the model tier in DELEGATION.md, and lands in a
 weekly queue Joe approves — he edits or sends, never composes from scratch.
 
-### Active investors — "Las Doce Docenas" (12+ touches/year each)
+### Active lenders — "Las Doce Docenas" (12+ touches/year each)
 
 | Cadence | Touch | Drafted by | Joe's part |
 |---|---|---|---|
@@ -190,4 +197,4 @@ the relationship system. Everything else is machine.
 - Pitch → funded rate, and average note size
 - **Touch integrity:** % of scheduled nurture touches actually sent (the number
   that protects the whole system — target 95%+)
-- Referral rate: funded investors who introduce at least one person per year
+- Referral rate: funded lenders who introduce at least one person per year
